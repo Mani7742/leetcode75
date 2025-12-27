@@ -1,7 +1,7 @@
 git init
 git add .
 git commit -m ""
-git remote add origin https://github.com/username/my-notebook.git
+git remote add origin https://github.com/Mani7742/leetcode75.git
 git push -u origin main
 
 
